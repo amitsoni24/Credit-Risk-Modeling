@@ -33,4 +33,4 @@ This project is licensed under the MIT License.
 
 ## 6. Contact
 For any questions or feedback regarding this project, please contact:
-- **Vivek Radadiya**
+- **Amit Soni**
